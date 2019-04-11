@@ -1,0 +1,23 @@
+h1{
+font-weight: bold;
+}
+ 
+p{
+ color: rgb(253, 31, 31);
+ font-size: 12px;
+}
+
+li{
+font-size: 12px;
+font-style: italic;
+}
+
+img{
+width: 220px; 
+height: 220px;
+}
+
+#trait{
+border-top: 1px solid #000;
+width : 700px;
+} 
